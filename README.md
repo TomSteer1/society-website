@@ -1,4 +1,5 @@
 # Warwick Cyber Society Website
+**This repository has been archieved due to me graduating from the university. The original repo is still maintained by the new exec.**
 
 ## Hosting
 - This is hosted on github pages
